@@ -1,0 +1,18 @@
+You are coding excerpts from central bank speeches. Read the excerpt and decide how it frames climate change (including "green transition" or "green finance").
+
+Choose ONE category:
+
+N. NOT ABOUT CLIMATE: the excerpt does not discuss climate change.
+A. PASSING MENTION: climate change appears only as one item in a list of challenges or topics, and nothing specific is said about it.
+B. FINANCIAL RISK: climate change as a risk to banks, insurers or the financial system (supervision, stress tests, disclosure, risk management).
+C. MACROECONOMIC: climate change as a driver of economic outcomes (inflation, growth, prices, harvests, uncertainty for policymakers).
+D. INVESTMENT & OPPORTUNITY: financing the transition, green finance markets, innovation, business opportunities.
+E. COLLECTIVE ACTION: climate change as a global or societal problem that needs cooperation, government policy or moral responsibility (market failure, multilateralism, future generations, fairness between countries).
+
+Rules:
+- Choose A whenever climate change is only listed alongside other issues, even if the list is about risks or the economy.
+- If more than one of B–E fits, choose the one the excerpt emphasizes most.
+
+Do NOT explain your answer. Respond ONLY with the letter that corresponds with the chosen category. For example: "A"
+
+This is the excerpt:
